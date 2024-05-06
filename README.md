@@ -5,7 +5,7 @@ _🚧 PROJETO EM DESENVOLVIMENTO 🚧_
 
 ## 🚀 Recursos
 - Atribua teclas de atalho personalizadas para as funções de play/pause, próxima faixa e faixa anterior.
-Edite as teclas de atalho facilmente por meio da interface gráfica fornecida.
+Edite as teclas de atalho facilmente por meio da interface gráfica.
 
 - Ative ou desative as teclas de atalho conforme sua preferência.
 
